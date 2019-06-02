@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974524401300",
+    "firebase_url": "https://hitalkapp-c1bb1.firebaseio.com",
+    "project_id": "hitalkapp-c1bb1",
+    "storage_bucket": "hitalkapp-c1bb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974524401300:android:5c71b6b6999183ea",
+        "android_client_info": {
+          "package_name": "com.company.wooju.hitalkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974524401300-beuufutn1uonbv0e2suol2pk7u3vqkbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.wooju.hitalkapp",
+            "certificate_hash": "7ba5be0687a84fc1a5598d955524872ef8facf95"
+          }
+        },
+        {
+          "client_id": "974524401300-v57pc1nknkid2q95c9i1eric4pdivh1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYs0NtIq0-YMIDrCTvdgMyGEF4M1k6tEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974524401300-v57pc1nknkid2q95c9i1eric4pdivh1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
